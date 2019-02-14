@@ -15,7 +15,9 @@ By utilizing these samples, you can learn to create and extend in-world function
 1. Download [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) edition.
 1. During installation, check of the **.NET desktop development** workload which will give you the >NET Framework 4-4.6 development tools
 1. Create a new Library project
-1. Add references to FrooxEngine.dll and BseX.dll from the Neos install folder.
+1. Add references to some Neos libraries from the installation folder:
+    1. FrooxEngine.dll - Found in NeosVR/Neos_Data/Managed/FrooxEngine.dll
+    1. BseX.dll - Found in NeosVR/BseX.dll
 
 ## Additional Resources
 - [API Documentation](http://wiki.neosvr.com/docfx/api)
