@@ -81,7 +81,7 @@ namespace NeosSampleLibrary
             var boxCollider = slot.AttachComponent<BoxCollider>();
             // grabbable component will ensure that the cube can be grabbed and moved around by tools that implement the grabbable system
             var grabbable = slot.AttachComponent<Grabbable>();
-            grabbable.Scalable = true; // allow scaling
+            grabbable.Scalable.Value = true; // allow scaling
 
             // let's set the box collider size. It's the same as default value, so this is redundant, but shows how it works
             boxCollider.Size.Value = float3.One;
