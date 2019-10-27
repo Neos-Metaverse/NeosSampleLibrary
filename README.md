@@ -17,7 +17,7 @@ By utilizing these samples, you can learn to create and extend in-world function
 1. Create a new Library project
 1. Add references to some Neos libraries from the installation folder:
     1. FrooxEngine.dll - Found in NeosVR/Neos_Data/Managed/FrooxEngine.dll
-    1. BseX.dll - Found in NeosVR/BseX.dll
+    1. BaseX.dll - Found in NeosVR/BaseX.dll
 
 ## Additional Resources
 - [API Documentation](http://wiki.neosvr.com/docfx/api)
