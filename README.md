@@ -23,6 +23,7 @@ By utilizing these samples, you can learn to create and extend in-world function
 - [API Documentation](http://wiki.neosvr.com/docfx/api)
 - [Wiki](http://wiki.neosvr.com/subdom/wiki/)
 - [Discord](https://discord.gg/4ZwyHc)
+- [NeosLibraryTemplate](https://github.com/Faolan-Rad/NeosLibraryTemplate)
 
 ## Contribution Guidelines
 1. Please open and issue stating your problem or motivation and a suggested solution. 
